@@ -1,1 +1,3 @@
-export * from './DetailPage'
+import { DetailPage } from "./DetailPage";
+
+export default DetailPage;
